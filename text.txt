@@ -1,8 +1,8 @@
 <iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY" frameborder="0" allowfullscreen>
 </iframe>
 
-<video width="600" height="360" controls>
-  <source src="https://hocvienbatdongsan.com/file/QUY-TRINH-7-BUOC-DAU-TU-BAT-DONG-SAN-720p.mp4" type="video/mp4">
+<video width="500" height="300" controls>
+  <source src="https://hocvienbatdongsan.com/file/THI-TRUONG-BDS-2019-CO-HOI-HAY-RUI-RO-DAU-TU-TRUC-TIEP-360p.mp4" type="video/mp4">
 </video>
 
 
@@ -42,4 +42,3 @@ blank
 
 
 post-element first-post"
-
